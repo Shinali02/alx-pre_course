@@ -1,1 +1,1 @@
-My first readme
+Computer guru, the master
